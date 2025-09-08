@@ -29,4 +29,4 @@ permalink: /projects/
 • Uploaded data to Amazon S3, stored it in AWS MySQL, and validated data integrity using SQL queries
 **Technologies:** Jupyter Notebook, Spotipy, Pandas, MySQL, Amazon S3, AWS, SQL
 **Status:** Complete
-**Code:** [Link to your code]
+**Code:** [View Project](https://github.com/jennyygeng/jenny/tree/data-engineering-project)
