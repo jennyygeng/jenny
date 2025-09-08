@@ -1,7 +1,7 @@
 # Undergraduate Senior
 
 ### Education
-B.S Statistics & Data Science
+B.S. Statistics & Data Science
 
 ### Work Experience
 Undergraduate Research Assistant @ University of Arizona
